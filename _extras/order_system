@@ -1,0 +1,31 @@
+					<form name="order-step-1" id="order-step-1" method="post">
+						<h3>Step 1: Basic Information</h3>
+						<div class="column2">
+							<p>Service Method:</p>
+							<input type="radio" name="service_method" value="pickup">Pickup
+							<br />
+							<input type="radio" name="service_method" value="delivery">Delivery							
+						</div>
+						<div class="column2">
+							<p>Basic Information:</p>
+							<table>
+								<tr>
+									<td>First Name</td>
+									<td><input type="text" name="first_name" value="" /></td>
+								</tr>
+								<tr>
+									<td>Last Name</td>
+									<td><input type="text" name="last_name" value="" /></td>
+								</tr>
+								<tr>
+									<td>Location</td>
+									<td><input type="text" name="location" value="" /></td>
+								</tr>
+								<tr>
+									<td>Delivery Notes:</td>
+									<td><textarea name="notes"></textarea></td>
+								</tr>
+							</table>
+						</div>
+						<input type="button" name="continue" value="continue" class="orange-btn float-right" />
+					</form>

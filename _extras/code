@@ -1,0 +1,32 @@
+			<div class="grid_3">
+				<div class="deal-container">					
+					<h3>Sushi Sampler</h3>
+					<img src="img/sushi-sampler.png" alt="Assorted Sushi Sampler" />
+					<p class="price">$6.99 Combo</p>
+					<p>Try our popular sushi sampler made by our excellent sushi chefs! Great variety for the sushi enthusiast. This combo comes with eight of our amazing sushi rolls.</p>
+				</div>
+			</div>
+			<div class="grid_3">
+				<div class="deal-container">					
+					<h3>Vegitarian Rolls</h3>
+					<img src="img/vegi-rolls.png" alt="Assorted Sushi Sampler" />
+					<p class="price">$5.99 Combo</p>
+					<p>Try our 100% vegitarian sushi rolls. Mix and match eight of our delicious vegitarian rolls. Choose from seaweed or lettuce wrapped rolls.</p>
+				</div>
+			</div>
+			<div class="grid_3">
+				<div class="deal-container">					
+					<h3>Hibachi Chicken</h3>
+					<img src="img/hibachi-chicken.png" alt="Assorted Sushi Sampler" />
+					<p class="price">$6.99 Combo</p>
+					<p>Indulge in our authentic hibachi grilled chicken over your choice of white or fried rice. This dish comes with mixed vegitables and a fountain drink. Steak combo available.</p>
+				</div>
+			</div>
+			<div class="grid_3">
+				<div class="deal-container">					
+					<h3>Boba Tea</h3>
+					<img src="img/boba-tea.png" alt="Assorted Sushi Sampler" />
+					<p class="price">$2.50</p>
+					<p>Slurp down a refreshing boba tea while enjoying one of our delicious combos! Choose from many different flavors that will quench your thirst.</p>
+				</div>
+			</div>
