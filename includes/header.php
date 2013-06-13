@@ -1,7 +1,8 @@
 	<!-- STYLES -->
-	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
 	<link href="http://sulley.cah.ucf.edu/~gfry/dig4530c/assignment02/css/reset.css" rel="stylesheet" />
     <link href="http://sulley.cah.ucf.edu/~gfry/dig4530c/assignment02/css/960_12_col.css" rel="stylesheet" />
+    <!-- <link href="http://sulley.cah.ucf.edu/~el193627/dig4530c/assignment02/css/.css" rel="stylesheet" /> -->
     <link href="http://sulley.cah.ucf.edu/~gfry/dig4530c/assignment02/css/style.css" rel="stylesheet" />
     <!-- <link href="css/lightbox.css" rel="stylesheet" /> -->
 
